@@ -13,5 +13,5 @@ jsonplaceholder.typicode.com/todos
 
 ## Notes
 
-1.tsc will compile the typescript file and spit out the js file
-2.ts-node will compile and run the js file concurrently
+1. tsc will compile the typescript file and spit out the js file
+2. ts-node will compile and run the js file concurrently
